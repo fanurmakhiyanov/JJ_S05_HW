@@ -1,7 +1,6 @@
-package ru.gb.JJ_S04_HW;
+package ru.gb.JJ_S05_HW;
 
 import lombok.Getter;
-import lombok.ToString;
 
 import java.io.IOException;
 import java.io.PrintWriter;

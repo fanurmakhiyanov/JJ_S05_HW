@@ -1,4 +1,4 @@
-package ru.gb.JJ_S04_HW;
+package ru.gb.JJ_S05_HW;
 
 import java.io.IOException;
 import java.io.PrintWriter;
@@ -6,7 +6,7 @@ import java.net.Socket;
 import java.util.Objects;
 import java.util.Scanner;
 
-public class Client2 {
+public class Client3 {
 
     public static void main(String[] args) throws IOException {
         final Socket client = new Socket("localhost", Server.PORT);

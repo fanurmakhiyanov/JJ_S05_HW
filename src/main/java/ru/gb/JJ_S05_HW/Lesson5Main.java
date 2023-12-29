@@ -1,4 +1,4 @@
-package ru.gb.JJ_S04_HW;
+package ru.gb.JJ_S05_HW;
 
 public class Lesson5Main {
     public static void main(String[] args) {
